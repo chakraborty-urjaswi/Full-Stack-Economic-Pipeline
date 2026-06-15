@@ -36,3 +36,7 @@ The aim is to look at small luxury purchase and build a recession predictor, bas
 
 ## Final expected outcome:
 An interactive live dashboard that shows the relation between e-commerce sales and possible recession and shows the relation between that and global hiring states, and a probabilistic predictor for which companies are likely to increase hiring.
+
+
+# NOTE
+The code takes live data and due to API shift actual data might slighly vary from markdown notes.
